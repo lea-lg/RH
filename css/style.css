@@ -1,0 +1,28 @@
+ @import url('https://fonts.googleapis.com/css2?family=Anton&display=swap')
+
+@import url("components/container.css");
+@import url('components/avatar.css');
+@import url('components/button.css');
+@import url('components/banner.css');
+@import url('components/card.css');
+
+ body {
+ 	font-family: 'Anton', serif;
+ 	font-size: 18px;
+ 	margin: 10px;
+ 	text-align: center;
+ }
+
+
+ h1,h2,h3 {
+ 	font-family: 'Anton', sans-serif;
+ 	font-weight: bold;
+ 	text-align: center;
+ }
+
+
+
+a {
+	text-decoration: none;
+	text-align: center;
+}
